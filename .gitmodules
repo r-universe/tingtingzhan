@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DanielBiostatistics10th"]
+	path = DanielBiostatistics10th
+	url = https://github.com/cran/DanielBiostatistics10th
+	shallow = true
+	registered = true
+[submodule "DemographicTable"]
+	path = DemographicTable
+	url = https://github.com/cran/DemographicTable
+	shallow = true
+	registered = true
+[submodule "Qindex"]
+	path = Qindex
+	url = https://github.com/cran/Qindex
+	shallow = true
+	registered = true
+[submodule "ThomasJeffersonUniv"]
+	path = ThomasJeffersonUniv
+	url = https://github.com/cran/ThomasJeffersonUniv
+	shallow = true
+	registered = true
+[submodule "VisualizeSimon2Stage"]
+	path = VisualizeSimon2Stage
+	url = https://github.com/cran/VisualizeSimon2Stage
+	shallow = true
+	registered = true
