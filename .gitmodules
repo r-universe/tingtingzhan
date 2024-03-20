@@ -14,6 +14,12 @@
 [submodule "ThomasJeffersonUniv"]
 	path = ThomasJeffersonUniv
 	url = https://github.com/cran/ThomasJeffersonUniv
+[submodule "TukeyGH77"]
+	path = TukeyGH77
+	url = https://github.com/cran/TukeyGH77
 [submodule "VisualizeSimon2Stage"]
 	path = VisualizeSimon2Stage
 	url = https://github.com/cran/VisualizeSimon2Stage
+[submodule "param2moment"]
+	path = param2moment
+	url = https://github.com/cran/param2moment
