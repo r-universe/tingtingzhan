@@ -11,6 +11,9 @@
 [submodule "Qindex"]
 	path = Qindex
 	url = https://github.com/cran/Qindex
+[submodule "Qindex.data"]
+	path = Qindex.data
+	url = https://github.com/cran/Qindex.data
 [submodule "ThomasJeffersonUniv"]
 	path = ThomasJeffersonUniv
 	url = https://github.com/cran/ThomasJeffersonUniv
