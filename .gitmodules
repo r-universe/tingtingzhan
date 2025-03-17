@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "DanielBiostatistics10th"]
 	path = DanielBiostatistics10th
-	url = https://github.com/cran/DanielBiostatistics10th
+	url = https://github.com/tingtingzhan/danielbiostatistics10th
 [submodule "DemographicTable"]
 	path = DemographicTable
 	url = https://github.com/cran/DemographicTable
@@ -16,7 +16,7 @@
 	url = https://github.com/cran/Qindex.data
 [submodule "ThomasJeffersonUniv"]
 	path = ThomasJeffersonUniv
-	url = https://github.com/cran/ThomasJeffersonUniv
+	url = https://github.com/tingtingzhan/thomasjeffersonuniv
 [submodule "TukeyGH77"]
 	path = TukeyGH77
 	url = https://github.com/tingtingzhan/tukeygh77
