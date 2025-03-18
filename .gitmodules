@@ -7,7 +7,7 @@
 	url = https://github.com/tingtingzhan/danielbiostatistics10th
 [submodule "DemographicTable"]
 	path = DemographicTable
-	url = https://github.com/cran/DemographicTable
+	url = https://github.com/tingtingzhan/demographictable
 [submodule "Qindex"]
 	path = Qindex
 	url = https://github.com/tingtingzhan/qindex
