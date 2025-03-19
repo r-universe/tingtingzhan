@@ -22,7 +22,7 @@
 	url = https://github.com/tingtingzhan/tukeygh77
 [submodule "VisualizeSimon2Stage"]
 	path = VisualizeSimon2Stage
-	url = https://github.com/cran/VisualizeSimon2Stage
+	url = https://github.com/tingtingzhan/visualizesimon2stage
 [submodule "fmx"]
 	path = fmx
 	url = https://github.com/tingtingzhan/fmx
