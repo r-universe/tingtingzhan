@@ -26,6 +26,9 @@
 [submodule "fmx"]
 	path = fmx
 	url = https://github.com/tingtingzhan/fmx
+[submodule "groupedHyperframe"]
+	path = groupedHyperframe
+	url = https://github.com/tingtingzhan/groupedhyperframe
 [submodule "param2moment"]
 	path = param2moment
 	url = https://github.com/tingtingzhan/param2moment
