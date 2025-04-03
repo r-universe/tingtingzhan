@@ -29,6 +29,9 @@
 [submodule "groupedHyperframe"]
 	path = groupedHyperframe
 	url = https://github.com/tingtingzhan/groupedhyperframe
+[submodule "maxEff"]
+	path = maxEff
+	url = https://github.com/tingtingzhan/maxeff
 [submodule "param2moment"]
 	path = param2moment
 	url = https://github.com/tingtingzhan/param2moment
