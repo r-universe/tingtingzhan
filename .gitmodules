@@ -29,6 +29,9 @@
 [submodule "groupedHyperframe"]
 	path = groupedHyperframe
 	url = https://github.com/tingtingzhan/groupedhyperframe
+[submodule "groupedHyperframe.random"]
+	path = groupedHyperframe.random
+	url = https://github.com/tingtingzhan/groupedhyperframe.random
 [submodule "maxEff"]
 	path = maxEff
 	url = https://github.com/tingtingzhan/maxeff
