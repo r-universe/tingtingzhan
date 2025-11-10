@@ -14,6 +14,9 @@
 [submodule "Qindex.data"]
 	path = Qindex.data
 	url = https://github.com/cran/Qindex.data
+[submodule "QuantileGH"]
+	path = QuantileGH
+	url = https://github.com/tingtingzhan/quantilegh
 [submodule "ThomasJeffersonUniv"]
 	path = ThomasJeffersonUniv
 	url = https://github.com/tingtingzhan/thomasjeffersonuniv
