@@ -41,6 +41,9 @@
 [submodule "maxEff"]
 	path = maxEff
 	url = https://github.com/tingtingzhan/maxeff
+[submodule "ordPanel"]
+	path = ordPanel
+	url = https://github.com/tingtingzhan/ordpanel
 [submodule "param2moment"]
 	path = param2moment
 	url = https://github.com/tingtingzhan/param2moment
