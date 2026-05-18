@@ -29,6 +29,9 @@
 [submodule "fmx"]
 	path = fmx
 	url = https://github.com/tingtingzhan/fmx
+[submodule "hyper.gam"]
+	path = hyper.gam
+	url = https://github.com/tingtingzhan/hyper.gam
 [submodule "ordPanel"]
 	path = ordPanel
 	url = https://github.com/tingtingzhan/ordpanel
