@@ -29,6 +29,12 @@
 [submodule "fmx"]
 	path = fmx
 	url = https://github.com/tingtingzhan/fmx
+[submodule "groupedHyperframe"]
+	path = groupedHyperframe
+	url = https://github.com/tingtingzhan/groupedhyperframe
+[submodule "groupedHyperframe.random"]
+	path = groupedHyperframe.random
+	url = https://github.com/tingtingzhan/rppp
 [submodule "hyper.gam"]
 	path = hyper.gam
 	url = https://github.com/tingtingzhan/hyper.gam
