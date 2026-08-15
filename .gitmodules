@@ -16,31 +16,31 @@
 	url = https://github.com/cran/Qindex.data
 [submodule "QuantileGH"]
 	path = QuantileGH
-	url = https://github.com/tingtingzhan/quantilegh
+	url = https://github.com/cran/QuantileGH
 [submodule "ThomasJeffersonUniv"]
 	path = ThomasJeffersonUniv
-	url = https://github.com/tingtingzhan/thomasjeffersonuniv
+	url = https://github.com/cran/ThomasJeffersonUniv
 [submodule "TukeyGH77"]
 	path = TukeyGH77
-	url = https://github.com/tingtingzhan/tukeygh77
+	url = https://github.com/cran/TukeyGH77
 [submodule "VisualizeSimon2Stage"]
 	path = VisualizeSimon2Stage
 	url = https://github.com/tingtingzhan/visualizesimon2stage
 [submodule "fmx"]
 	path = fmx
-	url = https://github.com/tingtingzhan/fmx
+	url = https://github.com/cran/fmx
 [submodule "groupedHyperframe"]
 	path = groupedHyperframe
-	url = https://github.com/tingtingzhan/groupedhyperframe
+	url = https://github.com/cran/groupedHyperframe
 [submodule "groupedHyperframe.random"]
 	path = groupedHyperframe.random
-	url = https://github.com/tingtingzhan/rppp
+	url = https://github.com/cran/groupedHyperframe.random
 [submodule "hyper.gam"]
 	path = hyper.gam
-	url = https://github.com/tingtingzhan/hyper.gam
+	url = https://github.com/cran/hyper.gam
 [submodule "ordPanel"]
 	path = ordPanel
 	url = https://github.com/tingtingzhan/ordpanel
 [submodule "param2moment"]
 	path = param2moment
-	url = https://github.com/tingtingzhan/param2moment
+	url = https://github.com/cran/param2moment
