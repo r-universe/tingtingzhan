@@ -17,9 +17,6 @@
 [submodule "QuantileGH"]
 	path = QuantileGH
 	url = https://github.com/cran/QuantileGH
-[submodule "ThomasJeffersonUniv"]
-	path = ThomasJeffersonUniv
-	url = https://github.com/cran/ThomasJeffersonUniv
 [submodule "TukeyGH77"]
 	path = TukeyGH77
 	url = https://github.com/cran/TukeyGH77
