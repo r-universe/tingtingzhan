@@ -4,10 +4,10 @@
 	branch = HEAD
 [submodule "DanielBiostatistics10th"]
 	path = DanielBiostatistics10th
-	url = https://github.com/tingtingzhan/danielbiostatistics10th
+	url = https://github.com/cran/DanielBiostatistics10th
 [submodule "DemographicTable"]
 	path = DemographicTable
-	url = https://github.com/tingtingzhan/demographictable
+	url = https://github.com/cran/DemographicTable
 [submodule "Qindex"]
 	path = Qindex
 	url = https://github.com/cran/Qindex
@@ -22,7 +22,7 @@
 	url = https://github.com/cran/TukeyGH77
 [submodule "VisualizeSimon2Stage"]
 	path = VisualizeSimon2Stage
-	url = https://github.com/tingtingzhan/visualizesimon2stage
+	url = https://github.com/cran/VisualizeSimon2Stage
 [submodule "fmx"]
 	path = fmx
 	url = https://github.com/cran/fmx
@@ -37,7 +37,7 @@
 	url = https://github.com/cran/hyper.gam
 [submodule "ordPanel"]
 	path = ordPanel
-	url = https://github.com/tingtingzhan/ordpanel
+	url = https://github.com/cran/ordPanel
 [submodule "param2moment"]
 	path = param2moment
 	url = https://github.com/cran/param2moment
